@@ -1,8 +1,5 @@
-# Ohjelmoinnin perusteet – Github palautusrepositorion malli
-Tässä repositoriossa näkyy malliesimerkki siitä, millaiseen repositorioon
-ohjelmoinnin harjoitustehtävät voi halutessaan palauttaa. Tehtävät on
-jaettu kansioihin viikoittain ja tehtävittäin. Hakemistorakenne on tehty valmiiksi
-ainoastaan viikon yksi ja kaksi tehtäville.
+# Ohjelmoinnin perusteet
+Täällä elää ja hengittää kurssin palautusmateriaali
 
 > Git ei mahdollista kansioiden seuraamista, joten kansioihin on lisätty piilotettu tiedosto `.gitkeep`. Tämän tiedoston poistaminen johtaa kansion katoamiseen repositorion kopiosta.
 
